@@ -1,0 +1,5 @@
+{
+  "name": "React Calculator",
+  "description": "A sleek, modern, and responsive calculator application built with React, TypeScript, and Tailwind CSS. It is designed for both desktop and mobile use, offering a clean user interface and essential arithmetic functions. Ready for deployment on Vercel.",
+  "requestFramePermissions": []
+}
